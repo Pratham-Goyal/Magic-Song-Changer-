@@ -1,0 +1,63 @@
+body{
+    background-size: cover;
+}
+
+.heading_1{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 35px;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 5px;
+    background-color: royalblue;
+    margin-top: 0px;
+    width: 100%;
+    text-decoration: underline;
+}
+
+.heading_2{
+    font-family: 'IM Fell English SC', serif;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 10px;
+    background-color: crimson;
+    text-decoration: none;
+}
+
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    background-color: gray;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Trade Winds', cursive;
+    font-size: 20px;
+  }
+
+  .hi{
+    width: 70px;
+    height: 50px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px white;
+    margin-left: 10px;
+  }
+
+  .song_name_but{
+    font-family: 'IM Fell English SC', serif;
+    font-size: 23px;
+    border-radius: 10px;
+    background-color:darkslategrey;
+    box-shadow: 5px 5px 5px white;
+    color: white;
+  }
+
+  canvas{
+      border: 15px ridge slateblue;
+      border-radius: 400px;
+      width: 380px;
+      height: 380px;
+      margin-top: 40px;
+  }
